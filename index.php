@@ -133,7 +133,7 @@
 							<li>
 								<div class="pic"><i class="fa fa-certificate"></i></div>
 								<div class="text">
-									<h2>Cuidamos el Medio Ambiente</h2>
+									<h2>Arre papu >:V</h2>
 									<FONT SIZE=3>Aseguramos y cuidamos cada proceso para mantener nuestro medio ambiente salutífero.</FONT>
 								</div>
 							</li>
