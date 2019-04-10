@@ -140,7 +140,9 @@
 							<li>
 								<div class="pic"><i class="fa fa-check"></i></div>
 								<div class="text">
-									<h2>Garantía a veces</h2>
+
+									<h2>Garantía nunca</h2>
+
 									<FONT SIZE=3>Optimizamos y Supervisamos cada equipo para asegurar la mejor calidad.</FONT>
 								</div>
 							</li>
